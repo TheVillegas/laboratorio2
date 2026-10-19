@@ -9,7 +9,8 @@ marquen cada casilla únicamente después de comprobarla.
 
 **Responsable sugerido:** compañero que ya está editando el README.
 
-- [ ] Completar los nombres de todos los integrantes y comprobar la URL del repositorio.
+- [x] Registrar los nombres y aportes de Matias Villegas, Matias Romero y Francisco Cortes.
+- [ ] Comprobar la URL del repositorio en el README final.
 - [ ] Incluir creación y activación de `.venv`, verificación del intérprete,
       instalación desde `requirements.txt` y orden de ejecución.
 - [ ] Incorporar las respuestas a las preguntas 1–6 y revisarlas en grupo.
@@ -36,9 +37,15 @@ Esta inspección no fue realizada desde el entorno donde se implementó el códi
 
 ## 3. Confirmar la ejecución en un equipo del grupo
 
-**Responsable:** por acordar. Instrucciones: pasos 1–8 de [la guía](GUIA_PASO_A_PASO.md).
-Las pruebas ya pasaron en el entorno original; esta comprobación confirma la
-reproducción por ustedes. Una instalación desde cero en otro entorno aún no fue verificada.
+**Responsable:** Francisco Cortes. Instrucciones: pasos 1–8 de [la guía](GUIA_PASO_A_PASO.md).
+
+**Validación informada por el equipo:** Francisco Cortes validó el entorno en
+otro equipo con un entorno limpio. Matias Romero validó el contenido del trabajo
+realizado por Matias Villegas.
+
+Las pruebas ya pasaron en el entorno original. Las casillas siguientes se
+mantienen sin marcar porque no se informó el resultado individual de cada
+comprobación en el otro equipo; no implican que la validación esté pendiente.
 
 - [ ] Clonar el repositorio, crear un `.venv` propio e instalar `requirements.txt`.
 - [ ] Comprobar el intérprete del entorno y ejecutar `python -m pip check`.

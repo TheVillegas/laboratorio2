@@ -10,7 +10,10 @@ Extracción de la **primera página** de https://books.toscrape.com/, limpieza
 con Pandas y búsqueda de títulos con TF-IDF y similitud del coseno.
 
 - **Asignatura:** Ingeniería Web Avanzada, OII436-1.
-- **Integrantes:** PENDIENTE: completar los nombres reales antes de entregar.
+- **Integrantes:** Matias Villegas, Matias Romero y Francisco Cortes.
+- **Aportes confirmados por el equipo:** Matias Villegas realizó el trabajo;
+  Matias Romero validó el contenido y Francisco Cortes validó el entorno en
+  otro equipo con un entorno limpio. El detalle figura en [README.md](README.md).
 - **Repositorio:** https://github.com/TheVillegas/laboratorio2 (público).
 - **Entorno comprobado:** Python 3.14.7 en Linux; versiones en `requirements.txt`.
 
@@ -174,7 +177,7 @@ Para trabajar sin pisarse, usen una rama por cambio y revisen el diff antes de s
 
 ### Antes de entregar
 
-- Completar los nombres reales de integrantes y revisar las respuestas en grupo.
+- Revisar que los nombres y aportes registrados coincidan con la entrega final.
 - Abrir el catálogo en el navegador y comprobar los selectores con las herramientas
   de desarrollo, como pide el paso 2. Esa inspección manual no se realizó desde este entorno.
 - Repetir las consultas y entender los resultados; el catálogo puede cambiar.

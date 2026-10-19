@@ -4,7 +4,10 @@ Proyecto de Ingeniería Web Avanzada: extracción de la primera página de
 https://books.toscrape.com/, procesamiento con Pandas y búsqueda TF-IDF.
 
 **Estado:** implementación en curso; todavía no está listo para entregar.
-**Integrantes:** pendiente de completar con los nombres reales.
+**Integrantes:**
+* Francisco Cortés Jorquera
+* Matias Villegas Muñoz
+* Matias Romero Alvarez
 
 ## Entorno local
 
